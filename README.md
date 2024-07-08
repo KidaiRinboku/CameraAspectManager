@@ -1,1 +1,1 @@
-https://rinboku-room.love/follow-camera/
+https://rinboku-room.love/cameraaspectmanager/
